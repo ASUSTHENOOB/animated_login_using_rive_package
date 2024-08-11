@@ -27,8 +27,8 @@ Welcome to the **Rive Login Page** repository! This project demonstrates how to 
 
 1. **Clone the Repository**:
 
-   git clone https://github.com/yourusername/rive-login-page.git
-   cd rive-login-page
+   get here :[ ://github.com/ayourusernahttpsmev/rie-login-page.git](https://github.com/ASUSTHENOOB/animated_login_using_rive_package)
+   
 # Contact 📧
 If you have any questions or feedback, feel free to reach out:
 
